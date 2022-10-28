@@ -1,6 +1,6 @@
 <h2> 👋 Hey there! I'm Wasit Ali</h2>
 
-<img height="300em" align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img height="250em" align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
 - 👀 I love Programming, Data Science and Automating Boring Stuff.
@@ -39,8 +39,8 @@
 <br/>
 
 <a href="https://github.com/wasitali7364">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasitali7364&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true&card_width=370px" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasitali7364&hide=jupyter%20notebook&theme=blueberry&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wasitali7364&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true&card_width=300px" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasitali7364&hide=jupyter%20notebook&theme=blueberry&layout=compact" />
 </a>
 
 <br/>
