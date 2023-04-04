@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/wasitali7364">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wasitali7364&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true&card_width=300px" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wasitali7364&hide=prs,issues,contribs&count_private=false&theme=radical&show_icons=true&card_width=300px" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasitali7364&hide=&theme=blueberry&layout=compact" />
 </a>
 
